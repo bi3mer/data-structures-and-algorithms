@@ -1,8 +1,9 @@
 # Data Structures and Algorithms in Go
 
 - Search
-  - [linear-search](Search/linear-search/)
+  - [Linear](Search/LinearSearch/)
   - ...
 - Sort
+  - [Selection Sort](Sort/SelectionSort)
   - ...
 - ...
